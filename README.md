@@ -1,4 +1,4 @@
-# Image-Captioning-PyTorch
+# Image-Captioning-with-Attention-Mechanism
 This repository contains codes to preprocess, train and evaluate sequence models on Flickr8k Image dataset in pytorch.
 
 **Models Experimented with**:
